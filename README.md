@@ -1,0 +1,5 @@
+- 👋 Hi, I’m fiftys7ven
+- 🌱 I’m currently learning: Lua
+- 📫 How to reach me: fiftys7ven@proxiedmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like pancakes.
